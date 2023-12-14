@@ -1,5 +1,4 @@
 # fuck_flutter
-# flutter_dog
 # 踩坑记录，MMP
 
 ## web
