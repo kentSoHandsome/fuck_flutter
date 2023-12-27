@@ -52,5 +52,9 @@ python3 -m http.server 8085
 npx http-server
 ```
 
+> 如果以上不行也可以尝试以下命令
+``` dart
+使用命令打包 flutter build web --release 在buil文件夹 web 包路径，运行命令 `python -m SimpleHTTPServer 8091`
+```
 
 
